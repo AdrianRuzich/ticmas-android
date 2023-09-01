@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comparar</string>
+    <string name="textoBoton">comparar</string>
+    <string name="textosIguales">Los textos son iguales</string>
+    <string name="textosDistintos">Los textos son distintos</string>
+    <string name="hint1">Ingrese un texto</string>
+    <string name="hint2">Ingrese otro texto</string>
+</resources>
